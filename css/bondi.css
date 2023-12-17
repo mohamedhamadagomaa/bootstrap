@@ -148,3 +148,9 @@ color: var(--dark-color);
 }
 
 /* end our-work */
+
+/* start stuff */
+.stuff .desc{
+    max-width: 500px;
+}
+/* End stuff */
