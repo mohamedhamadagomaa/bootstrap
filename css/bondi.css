@@ -155,3 +155,18 @@ color: var(--dark-color);
     max-width: 500px;
 }
 /* End stuff */
+
+/* start team */
+.team{
+    background-color: var(--section-color);
+}
+.team h4{
+background-color: var(--green-color);
+}
+/* start team */
+
+/* start proj sec */
+.project{
+    background-color: var(--dark-color);
+}
+/* end proj sec */
