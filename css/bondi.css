@@ -213,5 +213,8 @@ background-color: var(--green-color);
 .footer li:hover{
     color: var(--green-color);
 }
+.footer .social-icon a{
+    text-decoration: none;
+}
 
 /* start footer  */
