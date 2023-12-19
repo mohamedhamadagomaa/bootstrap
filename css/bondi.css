@@ -194,9 +194,7 @@ background-color: var(--green-color);
 .subscribe a{
     background-color: var(--dark-color);
 }
-
 /* end subscribe  */
-
 /* start footer  */
 .footer{
     background-color: var(--dark-color);
@@ -216,5 +214,31 @@ background-color: var(--green-color);
 .footer .social-icon a{
     text-decoration: none;
 }
-
+.footer .social-icon .facebook{
+    color: #1877f2;
+}
+.footer .social-icon .linkedin{
+    color: #0a66c2;
+}
+.footer .social-icon .instagram{
+    color: #405de6;
+}
+.footer .social-icon .whatsapp{
+    color: #075e54;
+}
+.footer .social-icon .envelope{
+    color: #f3f4f7;
+}
+.footer .social-icon .telegram{
+    color: #0088cc;
+}
+.footer .social-icon .phone{
+    color: #68217a;
+}
+.footer .social-icon .x-twitter{
+    color: #1da1f2;
+}
+.footer .social-icon .youtube{
+    color: #ff0000;
+}
 /* start footer  */
